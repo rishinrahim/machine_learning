@@ -5,11 +5,7 @@ A repository to record my learning in  Machine learning and Deep Learning
 This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks are mostly related to my contribution in Kaggle.
 
 
-
 ## Contents
-
-
-### Notes
 
 #### General
 
@@ -18,6 +14,7 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/General/003_ML_tools.md)
 4. [Data Science Roadmap](https://github.com/rishinrahim/ML-DL/blob/master/General/004_Data_Science_Roadmap.md)
 5. [Interview Guide](https://github.com/rishinrahim/ML-DL/blob/master/General/005_Interview_Guide.md)
+6. [QuickBites](https://github.com/rishinrahim/ML-DL/blob/master/General/006_quickbites.md)
 
 #### Deep Learning
 
@@ -29,9 +26,9 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 #### NLP
 
 1. [Timeline](https://github.com/rishinrahim/ML-DL/blob/master/NLP/001_timeline.md)
-2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/NLP/002_Resources.md)  
-2. [Introduction](https://github.com/rishinrahim/ML-DL/blob/master/NLP/003_Resources.md) 
-3. [Word Vectors and Word Senses](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/004_Word_vectors_and_word_senses.md)
+2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/NLP/002_resources.md)  
+2. [Introduction](https://github.com/rishinrahim/ML-DL/blob/master/NLP/003_Introduction.md) 
+3. [Word Vectors and Word Senses](https://github.com/rishinrahim/ML-DL/blob/master/NLP/004_Word_Vectors_and_Word_Senses.md)
 
 ---
 
