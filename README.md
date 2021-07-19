@@ -6,14 +6,14 @@ A repository to record my learning in  Machine learning and Deep Learning This r
 
 ## Contents
 
----
+
 ### Notes
 
 #### General
 
-1. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/001_algorithm_list.md)
-2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/002_Highlights.md) 
-3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/002_ml_tools.md)
+1. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/general/001_algorithm_list.md)
+2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/general/002_Highlights.md) 
+3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/general/003_ml_tools.md)
 
 #### Deep Learning
 
