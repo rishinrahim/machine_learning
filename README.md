@@ -17,7 +17,7 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/General/002_Highlights.md) 
 3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/General/003_ML_tools.md)
 4. [Data Science Roadmap](https://github.com/rishinrahim/ML-DL/blob/master/General/004_Data_Science_Roadmap.md)
-5. [Interview Guide])https://github.com/rishinrahim/ML-DL/blob/master/General/005_Interview_Guide.md)
+5. [Interview Guide](https://github.com/rishinrahim/ML-DL/blob/master/General/005_Interview_Guide.md)
 
 #### Deep Learning
 
