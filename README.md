@@ -13,9 +13,9 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 
 #### General
 
-1. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/general/001_algorithm_list.md)
-2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/general/002_Highlights.md) 
-3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/general/003_ml_tools.md)
+1. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/General/001_algorithm_list.md)
+2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/General/002_Highlights.md) 
+3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/General/003_ML_tools.md)
 
 #### Deep Learning
 
