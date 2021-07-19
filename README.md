@@ -33,7 +33,7 @@ A repository to record my learning in  Machine learning and Deep Learning This r
 
 ## Jupyter Notebooks
 
-1. [Basic Data analysis using Iris data]()
+1. [Basic Data analysis using Iris data](https://github.com/rishinrahim/ML-DL/blob/master/Notebooks/basic-data-analysis-using-iris-data.ipynb)
 
 
 ---
