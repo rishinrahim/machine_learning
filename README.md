@@ -9,12 +9,25 @@ A repository to record my learning in  Machine learning and Deep Learning This r
 ---
 ### Notes
 
-1. [Timeline](https://github.com/rishinrahim/ML-DL/blob/master/Notes/001_timeline.md)
-2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/Notes/003_Resources.md)
-3. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/Notes/005_algorithm_list.md)
-4. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/Notes/004-Highlights.md)   
-3. [What is Neural Network](https://github.com/rishinrahim/ML-DL/blob/master/Notes/002_What%20is%20Neural%20Network.md)
+#### General
 
+1. [Algorithm List](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/001_algorithm_list.md)
+2. [Highlights](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/002_Highlights.md) 
+3. [ML Tools](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/002_ml_tools.md)
+
+#### Deep Learning
+
+1. [Timeline](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/001_timeline.md)
+2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/002_Resources.md)  
+3. [What is Neural Network](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/003_What%20is%20Neural%20Network.md)
+
+
+#### NLP
+
+1. [Timeline](https://github.com/rishinrahim/ML-DL/blob/master/NLP/001_timeline.md)
+2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/NLP/002_Resources.md)  
+2. [Introduction](https://github.com/rishinrahim/ML-DL/blob/master/NLP/003_Resources.md) 
+3. [Word Vectors and Word Senses](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/004_Word_vectors_and_word_senses.md)
 
 ---
 
