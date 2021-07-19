@@ -1,5 +1,7 @@
 # Data Science Roadmap
 
+[source](https://www.reddit.com/r/learnmachinelearning/comments/lbz4md/the_ultimate_blueprint_to_getting_a_job_in_data/)
+
 The ultimate blueprint to getting a job in data science
 
 ## Software Engineering
