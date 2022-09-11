@@ -1,6 +1,6 @@
 # Machine Learning
  
-A repository to record my learning as a Machine learning Engineer
+A repository to record my learnings as a Machine learning Engineer
 
 
 ## Contents
