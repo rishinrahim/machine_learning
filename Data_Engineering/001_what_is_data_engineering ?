@@ -1,0 +1,9 @@
+# What is Data Engineering ?
+
+# 1. What is Data Engineering ?
+
+ Data engineers , they  and then they put that data in a location where users can access it and know that it is production quality (load).
+
+- Data engineering involves the movement of data from one system or format to another system or format
+- Query data from a source (extract)
+- Perform some modifications to the data (transform),
