@@ -1,8 +1,6 @@
-# Machine Learning - Deep Learning (ML/DL)
+# Machine Learning
  
-A repository to record my learning in  Machine learning and Deep Learning
-
-This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks are mostly related to my contribution in Kaggle.
+A repository to record my learning as a Machine learning Engineer
 
 
 ## Contents
@@ -40,7 +38,7 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 3. [What is Neural Network](https://github.com/rishinrahim/ML-DL/blob/master/Deep_Learning/003_What%20is%20Neural%20Network.md)
 
 
-#### NLP
+### NLP
 
 1. [Timeline](https://github.com/rishinrahim/ML-DL/blob/master/NLP/001_timeline.md)
 2. [Resources](https://github.com/rishinrahim/ML-DL/blob/master/NLP/002_resources.md)  
@@ -48,11 +46,11 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 3. [Word Vectors and Word Senses](https://github.com/rishinrahim/ML-DL/blob/master/NLP/004_Word_Vectors_and_Word_Senses.md)
 
 
-## Data analysis
+### Data analysis
 
 1. [Basic Data analysis using Iris data](https://github.com/rishinrahim/ML-DL/blob/master/Notebooks/basic-data-analysis-using-iris-data.ipynb)
 
-## Statistics
+### Statistics
 
 1. Basic concepts of Measurement
 2. Method of least squares
@@ -67,7 +65,7 @@ This repository contains Notes as well as Jupyter Notebooks. Jupyter notebooks a
 11. Hypothesis Testing
 
 
-## ISLR_with_python
+### ISLR_with_python
 Introduction to Statistical Learning - Notes and Exercises implemented in Python
 
 1. Statistical learning
